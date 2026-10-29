@@ -1,0 +1,398 @@
+window.__CONFIG = {
+  "business": {
+    "name": "Complejo Turístico Dulces Vacaciones",
+    "short_name": "complejo-turistico-dulces-vacaciones",
+    "tagline": "Complejo Turístico Dulces Vacaciones - Villa Gesell",
+    "description": "Complejo Turístico Dulces Vacaciones: pileta, parrilla, WiFi y la mejor ubicación en Villa Gesell.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Villa Gesell · P.º 119 653",
+    "title_line1": "Viví",
+    "title_em": "complejo-turistico-dulces-vacaciones",
+    "title_line2": "desde acá",
+    "subtitle": "Todo lo que buscás para viajar tranquilo por Villa Gesell."
+  },
+  "location": {
+    "address": "P.º 119 653, B7165 Villa Gesell, Provincia de Buenos Aires",
+    "district": "Villa Gesell",
+    "city": "Villa Gesell",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "beach",
+    "map_query": "P.º 119 653, B7165 Villa Gesell, Provincia de Buenos Aires, Villa Gesell",
+    "map_embed": "https://maps.google.com/maps?q=P.%C2%BA+119+653%2C+B7165+Villa+Gesell%2C+Provincia+de+Buenos+Aires%2C+Villa+Gesell&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Villa Gesell. Cerca de restaurantes, bares y todo lo que necesitás.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/5492255528575",
+    "phone": "+5492255528575",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Complejo+Tur%C3%ADstico+Dulces+Vacaciones/@-37.2667631,-56.9855237,17z/data=!3m1!4b1!4m6!3m5!1s0x959b6093f106d6e9:0x7f036db5f0919165!8m2!3d-37.2667631!4d-56.9829488!16s%2Fg%2F1hc1f2qq6?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+    "place_url": "https://www.google.com/maps/place/Complejo+Tur%C3%ADstico+Dulces+Vacaciones/@-37.2667631,-56.9855237,17z/data=!3m1!4b1!4m6!3m5!1s0x959b6093f106d6e9:0x7f036db5f0919165!8m2!3d-37.2667631!4d-56.9829488!16s%2Fg%2F1hc1f2qq6?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Quiénes somos",
+    "title": "Te contamos sobre Complejo Turístico Dulces Vacaciones.",
+    "paragraphs": [
+      "En Complejo Turístico Dulces Vacaciones vas a encontrar todo lo que necesitás para tu estadía en Villa Gesell: WiFi gratis, pileta, parrilla, cocina equipada y una ubicación ideal para recorrer la zona. Te esperamos."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Siempre hay alguien para ayudarte",
+    "Sin sorpresas al momento de pagar",
+    "Te contamos todo lo que necesitás saber"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Espacios para descansar",
+      "description": "Habitaciones pensadas para que descargues baterías.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "Conection estable",
+      "description": "WiFi que funciona para laburar y para scrollear.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "En la zona",
+      "description": "Caminando llegás a todo, olvidate del Uber.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Tasslehoff Raistlin",
+      "rating": 3,
+      "text": "Un complejo de muchas casas, no tan tranquilo y un poco descuidado. Si usted es un conduct@r principiante mejor deje el auto afuera pues la rampa es trambolika, solo apta para personas avezadas en el manejo y que conozcan a la perfección el…"
+    },
+    {
+      "author": "Fabiana Torres",
+      "rating": 4,
+      "text": "Cumplió con las características descrita. Cumple relación precio calidad. Un poco alejado del centro lo que lo hace muy tranquilo, sin ruido a vehículos. Cuenta con comercios a 400/500 mts. Al ingresar el dpto se veía y percibía aroma a…"
+    },
+    {
+      "author": "Diego Eberhardt",
+      "rating": 4,
+      "text": "El complejo es enorme, y a pesar de la cantidad de gente esuy tranquilo, salvó por la gente que va con sus mascotas y empezaban a ladrar a las 6 de la mañana. Los departamentos son acordes al precio, camas chicas pero los colchones bien,…"
+    }
+  ],
+  "testimonials_meta": {
+    "source": "google",
+    "rating": 4.0,
+    "count": 344
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Desayuno incluido?",
+      "answer": "Depende la época, escribinos y te confirmamos."
+    },
+    {
+      "question": "¿Se puede ir con mascota?",
+      "answer": "Consultanos, a veces se puede arreglar. No somos los típicos que dicen que no de una."
+    },
+    {
+      "question": "¿La zona es segura?",
+      "answer": "Sí, es una zona tranquila. Los viajeros la recomiendan."
+    },
+    {
+      "question": "¿Hay calefacción?",
+      "answer": "Sí, en invierno estamos bien abrigaditos. No te preocupes por el frío."
+    },
+    {
+      "question": "¿Qué se puede hacer en la zona?",
+      "answer": "La zona es ideal para playa, paseos costeros y buena comida. Te recomendamos los mejores lugares."
+    }
+  ],
+  "footer": {
+    "description": "Complejo Turístico Dulces Vacaciones",
+    "copyright": "© 2026 Complejo Turístico Dulces Vacaciones. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Complejo Turístico Dulces Vacaciones",
+        "short_name": "complejo-turistico-dulces-vacaciones",
+        "tagline": "Complejo Turístico Dulces Vacaciones - Accommodation",
+        "description": "Your base at Complejo Turístico Dulces Vacaciones to explore Villa Gesell.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Villa Gesell · P.º 119 653",
+        "title_line1": "Welcome to",
+        "title_em": "complejo-turistico-dulces-vacaciones",
+        "title_line2": "",
+        "subtitle": "WiFi, equipped kitchen, terrace and pool. Everything nearby."
+      },
+      "about": {
+        "eyebrow": "About us",
+        "title": "The story of Complejo Turístico Dulces Vacaciones.",
+        "paragraphs": [
+          "Complejo Turístico Dulces Vacaciones is a family-run hostel in Villa Gesell, run by its owners. We offer private and shared rooms, free WiFi, a fully equipped kitchen, pool and BBQ. We're in the city center, close to everything you need."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Villa Gesell. The ideal location for your trip."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "How do I book?",
+          "answer": "Send us a WhatsApp or email and we'll confirm right away. Easy as that."
+        },
+        {
+          "question": "Are towels provided?",
+          "answer": "Message us, we usually have towels available to lend."
+        },
+        {
+          "question": "Can I leave my luggage before check-in?",
+          "answer": "Of course! Drop your bags and come back later. We'll keep them safe."
+        },
+        {
+          "question": "Is there air conditioning?",
+          "answer": "Yes, you'll stay cool in summer no problem."
+        },
+        {
+          "question": "Is it close to the beach?",
+          "answer": "Message us and we'll tell you exactly how far the beach is from here."
+        }
+      ],
+      "trust_bar": [
+        "Quick answers whenever you need",
+        "No middlemen, no surprises",
+        "We've been travelers too, we get it"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Tasslehoff Raistlin",
+          "rating": 3,
+          "text": "A complex of many houses, not so quiet and a little neglected. If you are a beginner, better leave the car outside because the ramp is trambolika, only suitable for people who are experienced in driving and who know the..."
+        },
+        {
+          "author": "Fabiana Torres",
+          "rating": 4,
+          "text": "It met the characteristics described. It meets value for money. A little away from the center which makes it very quiet, without noise to vehicles. It has shops at 400/500 meters. Upon entering the department, it looked and perceived the aroma of..."
+        },
+        {
+          "author": "Diego Eberhardt",
+          "rating": 4,
+          "text": "The complex is huge, and despite the number of people being very quiet, it was saved by the people who went with their pets and started barking at 6 in the morning. The apartments are according to the price, small beds but the mattresses are good,..."
+        }
+      ],
+      "footer": {
+        "description": "Complejo Turístico Dulces Vacaciones",
+        "copyright": "© 2026 Complejo Turístico Dulces Vacaciones. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Complejo Turístico Dulces Vacaciones",
+        "description": "Complejo Turístico Dulces Vacaciones ofrece todo lo que necesitás para tu estadía en Villa Gesell.",
+        "url": "",
+        "telephone": "+5492255528575",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Complejo+Tur%C3%ADstico+Dulces+Vacaciones/@-37.2667631,-56.9855237,17z/data=!3m1!4b1!4m6!3m5!1s0x959b6093f106d6e9:0x7f036db5f0919165!8m2!3d-37.2667631!4d-56.9829488!16s%2Fg%2F1hc1f2qq6?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "P.º 119 653, B7165 Villa Gesell, Provincia de Buenos Aires",
+          "addressLocality": "Villa Gesell",
+          "addressCountry": "AR"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": -37.2629111,
+          "longitude": -56.994351
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Espacios para descansar",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Conection estable",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "En la zona",
+            "value": true
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.0,
+          "reviewCount": 344
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Desayuno incluido?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Depende la época, escribinos y te confirmamos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede ir con mascota?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Consultanos, a veces se puede arreglar. No somos los típicos que dicen que no de una."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿La zona es segura?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, es una zona tranquila. Los viajeros la recomiendan."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay calefacción?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, en invierno estamos bien abrigaditos. No te preocupes por el frío."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Qué se puede hacer en la zona?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La zona es ideal para playa, paseos costeros y buena comida. Te recomendamos los mejores lugares."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};
