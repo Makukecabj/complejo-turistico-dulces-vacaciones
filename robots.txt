@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://complejo-turistico-dulces-vacaciones.vercel.app/sitemap.xml
+Sitemap: https://complejo-turistico-dulces-vacacione.vercel.app/sitemap.xml
